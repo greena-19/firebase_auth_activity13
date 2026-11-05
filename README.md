@@ -41,6 +41,7 @@ How to Run
    flutter run
 
 Testing
+
 I tested the authentication flow in the iPhone simulator and captured screenshots as evidence. The observed checks included:
 Test	Observation
 Sign in with an existing account	Opened the profile screen
