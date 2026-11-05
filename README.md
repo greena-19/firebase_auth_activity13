@@ -27,6 +27,7 @@ lib/
 - auth_service.dart keeps Firebase Authentication operations in one place.
 - authentication_screen.dart handles registration and sign-in.
 - profile_screen.dart displays the user email and provides password-change and sign-out actions.
+
 How to Run
 1. Install Flutter and set up an Android emulator or a connected device.
 2. Clone the repository:
